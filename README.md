@@ -1,6 +1,6 @@
-### Hi there 👋
+### Do. Or do not. There is no try.
 
-![](./test.svg)
+<!--![](./test.svg)-->
 
 <!--
 **dmbaranov/dmbaranov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
